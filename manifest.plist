@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hongshu.CEG.test</string>
+				<string>com.hongshu.CEG</string>
 				<key>bundle-version</key>
 				<string>2.3.2</string>
 				<key>kind</key>
